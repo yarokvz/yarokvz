@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yarokvz
+-:greeting: Hi, I’m @yarokvz
 - 👀 I’m interested in web-dev and much more.
 - 🌱 I’m currently learning firebase, js, python.
 - 📫 How to reach me yaroslav.kovzik@gmail.com
